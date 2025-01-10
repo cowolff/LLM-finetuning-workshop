@@ -50,8 +50,8 @@ This repository contains scripts and notebooks designed for a hands-on workshop 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/llm-fine-tuning-workshop.git
-cd llm-fine-tuning-workshop
+git clone https://github.com/cowolff/LLM-finetuning-workshop
+cd LLM-finetuning-workshop
 ```
 
 2. Explore the notebooks for guided workflows, or execute the scripts for specific tasks.
